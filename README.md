@@ -29,10 +29,10 @@
 
 ## Projects
 
-### 🐑 Sheep-NLP-Android
+### 🐑 Sheep-NLP-Android Library
 [GitHub Repo](https://github.com/palnavneet/Sheep-NLP-Android)
 
-Offline-ready NLP engine for Android using ONNX models, with custom Kotlin tokenizer and markdown rendering. Designed to help Android devs embed AI in their apps without relying on cloud APIs.
+Offline-ready NLP library for running ONNX and gguf(future update) models, with custom Kotlin tokenizer and markdown rendering. Designed to help Android devs embed AI in their apps without relying on cloud APIs.
 
 > **Stack:** Kotlin
 
