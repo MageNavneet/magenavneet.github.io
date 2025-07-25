@@ -6,7 +6,8 @@
 
 ## Education
 
-- 12th Grade (ISC – ISE Board), India — _2025_  
+- 10th Grade (ICSE Board), India — _2023_  
+- 12th Grade (Open Schooling), India — _2025_  
 - Self-Taught Android & AI Developer — _Building real-world apps since age 14_
 
 ---
