@@ -18,10 +18,11 @@
 - Created [ArtGallary](https://github.com/MageNavneet/ArtGallary), an Android AR app that allows users to view images in Augmented Reality using ARCore and Jetpack Compose
 - Created a variety of utility apps including PDF editors, markdown previewers, and file tools — built mainly for learning, experimenting, and having fun with Android APIs
 
-**Android + AI Developer @ Personal Projects (_Ongoing_)**  
-- Developing a full NLP pipeline with tokenizer, encoder, and metadata ranker for scheduling and task management  
-- Training transformer-based models and converting them to ONNX for lightweight Android inference  
-- Working on Jellyfish Parser — a smart natural language parser for productivity apps
+**Founder @ CloudSurfe Open Source Org (_2024 – Present_)**  
+- Founded [CloudSurfe](https://github.com/CloudSurfe), an open-source organization dedicated to building non-profit, privacy-first applications powered by generative AI
+- Built a global [Discord community](https://discord.gg/8ySwmhjX) of over 30 contributors collaborating on open-source projects and learning together  
+- Building a Notion alternative with integrated LLMs for smart content generation, task parsing, and automation  
+- Designing a plugin-based architecture to allow custom extensions and AI-powered workflows  
 
 ---
 
@@ -32,21 +33,27 @@
 
 Offline-ready NLP engine for Android using ONNX models, with custom Kotlin tokenizer and markdown rendering. Designed to help Android devs embed AI in their apps without relying on cloud APIs.
 
-> **Stack:** Kotlin, ONNX, Room, Jetpack Compose, Markdown, BIO tagging
+> **Stack:** Kotlin
 
----
+### 🖼️ ArtGallary (AR Image Viewer)  
+[GitHub Repo](https://github.com/MageNavneet/ArtGallary)  
+An Augmented Reality Android app that allows users to view and place images in their physical environment using ARCore. Built with Jetpack Compose and Sceneform for immersive AR experiences.  
+> **Stack:** Kotlin, ARCore, Jetpack Compose, Sceneform
 
-### 🧠 Jellyfish Task Parser *(WIP)*
+### 🧠 Jellie Notes (Notion + Obsidian Alternative) – _Current Project_  
+[GitHub Repo](https://github.com/CloudSurfe/Jellie-notes)  
+A privacy-first, open-source Notion alternative enhanced with LLMs, NLPs and plugin architecture. Includes task parsing, natural language scheduling, and metadata ranking using ONNX transformer models – all running offline on Android.  
+> **Stack:** Kotlin, Jetpack Compose, ONNX, Room, LLMs, Plugin System
 
-NER + Priority Ranker for productivity apps. Extracts time, repeat, location, and task type from natural language using a custom-trained transformer model running on-device via ONNX.
+### 📞 Jellie Caller – _Future Project_  
+AI-powered assistant that answers unknown calls smartly, designed especially for teens. It uses on-device transformer models to understand, respond, and summarize call intent — all while maintaining complete privacy and working offline.  
+> **Stack:** Kotlin, Jetpack Compose, ONNX, Offline LLMs, Android Telephony
 
-> **Stack:** Kotlin, ONNX Runtime, Transformer NER, BIO format, Room DB
 
----
 
 ## Talks & Community
 
-- 🎤 Guest Speaker – *Intro to ONNX in Android* – Local Android Meetup (2024)  
+- 🌐 Founder of the [CloudSurfe Discord Community](https://discord.gg/8ySwmhjX) – 30+ contributors from around the world collaborating on privacy-first open-source tools 
 - 📝 Contributor to Android Dev discussions on GitHub, Reddit, and Discord  
 - 🔧 Maintainer of open-source Android + AI libraries
 
@@ -54,15 +61,14 @@ NER + Priority Ranker for productivity apps. Extracts time, repeat, location, an
 
 ## GitHub Highlights
 
-![Navneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=palnavneet&show_icons=true&theme=radical)
+![Navneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=magenavneet&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true)
 
 ---
 
 ## Contact
 
-- GitHub: [github.com/palnavneet](https://github.com/palnavneet)  
-- LinkedIn: [linkedin.com/in/navneetpal](https://linkedin.com/in/navneetpal)  
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- GitHub: [github.com/magenavneet](https://github.com/magenavneet)  
+- Email: [navneetpal.dev@gmail.com](mailto:navneetpal.dev@gmail.com)
 
 ---
 
