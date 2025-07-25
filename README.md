@@ -74,5 +74,3 @@ AI-powered assistant that answers unknown calls smartly, designed especially for
 
 ---
 
-> “AI will change the world for sure — but not through LLMs alone.”
-
